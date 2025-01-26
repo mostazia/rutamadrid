@@ -6,8 +6,42 @@
     <link rel="stylesheet" href="CSS/index.css" />
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+    <script src="javascript/metro.js"></script>
   </head>
   <body>
-    
+    <div id="div1"></div>
+    <div id="div2">
+      <div id="div2a">
+        <div id="div2a1">
+          Ir desde<input
+            type="text"
+            id="input1"
+            placeholder="Coordenadas"
+            style="z-index: 100"
+            onclick="useGPS()"
+          />
+          Hasta
+          <input
+            type="text"
+            id="input2"
+            placeholder="Coordenadas"
+            style="z-index: 100"
+          />
+          <div id="divboton" onclick="createRoute()">Direcciones</div>
+        </div>
+        <div id="div2a2">
+          <div id="divtitulo">Instrucciones:</div>
+          <div id="divInstrucciones"></div>
+        </div>
+      </div>
+      <div id="div2b">
+        <div id="window">
+          <div id="miniWindow"></div>
+          <script>
+            loadMap();
+          </script>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

@@ -1,10 +1,12 @@
 // Linea 1
 
+// Linea 1
 const pinarDeChamartin = {
   lat: 40.48049736537236,
   long: -3.666733428122527,
   lines: [1, 4],
   name: "Pinar de Chamartín",
+  id: "pinarDeChamartin",
 };
 
 const bambu = {
@@ -12,6 +14,7 @@ const bambu = {
   long: -3.676726683828927,
   lines: [1],
   name: "Bambú",
+  id: "bambu",
 };
 
 const chamartin = {
@@ -19,6 +22,7 @@ const chamartin = {
   long: -3.6836850067537408,
   lines: [1, 10],
   name: "Chamartín",
+  id: "chamartin",
 };
 
 const plazaDeCastilla = {
@@ -26,6 +30,7 @@ const plazaDeCastilla = {
   long: -3.6884795057233726,
   lines: [1, 9, 10],
   name: "Plaza de Castilla",
+  id: "plazaDeCastilla",
 };
 
 const valdeacederas = {
@@ -33,6 +38,7 @@ const valdeacederas = {
   long: -3.6945571478315617,
   lines: [1],
   name: "Valdeacederas",
+  id: "valdeacederas",
 };
 
 const tetuan = {
@@ -40,6 +46,7 @@ const tetuan = {
   long: -3.697895633525126,
   lines: [1],
   name: "Tetuán",
+  id: "tetuan",
 };
 
 const estrecho = {
@@ -47,6 +54,7 @@ const estrecho = {
   long: -3.7038271810813574,
   lines: [1],
   name: "Estrecho",
+  id: "estrecho",
 };
 
 const alvarado = {
@@ -54,6 +62,7 @@ const alvarado = {
   long: -3.7044568789842454,
   lines: [1],
   name: "Alvarado",
+  id: "alvarado",
 };
 
 const cuatroCaminos = {
@@ -61,6 +70,7 @@ const cuatroCaminos = {
   long: -3.7039846056202093,
   lines: [1, 4, 6],
   name: "Cuatro Caminos",
+  id: "cuatroCaminos",
 };
 
 const riosRosas = {
@@ -68,6 +78,7 @@ const riosRosas = {
   long: -3.700901088154907,
   lines: [1],
   name: "Ríos Rosas",
+  id: "riosRosas",
 };
 
 const iglesia = {
@@ -75,6 +86,7 @@ const iglesia = {
   long: -3.697397411209908,
   lines: [1],
   name: "Iglesia",
+  id: "iglesia",
 };
 
 const bilbao = {
@@ -82,6 +94,7 @@ const bilbao = {
   long: -3.70226708653278,
   lines: [1, 4],
   name: "Bilbao",
+  id: "bilbao",
 };
 
 const tribunal = {
@@ -89,6 +102,7 @@ const tribunal = {
   long: -3.7012198720570364,
   lines: [1, 10],
   name: "Tribunal",
+  id: "tribunal",
 };
 
 const granVia = {
@@ -96,6 +110,7 @@ const granVia = {
   long: -3.701625430255096,
   lines: [1, 5],
   name: "Gran Vía",
+  id: "granVia",
 };
 
 const sol = {
@@ -103,6 +118,7 @@ const sol = {
   long: -3.703206505912717,
   lines: [1, 2, 3],
   name: "Sol",
+  id: "sol",
 };
 
 const tirsoDeMolina = {
@@ -110,6 +126,7 @@ const tirsoDeMolina = {
   long: -3.703887111258177,
   lines: [1],
   name: "Tirso de Molina",
+  id: "tirsoDeMolina",
 };
 
 const antonMartin = {
@@ -117,6 +134,7 @@ const antonMartin = {
   long: -3.699635803505414,
   lines: [1],
   name: "Antón Martín",
+  id: "antonMartin",
 };
 
 const estacionDelArte = {
@@ -124,6 +142,7 @@ const estacionDelArte = {
   long: -3.691454322130659,
   lines: [1],
   name: "Estación del Arte",
+  id: "estacionDelArte",
 };
 
 const atocha = {
@@ -131,6 +150,7 @@ const atocha = {
   long: -3.6880658414714054,
   lines: [1],
   name: "Atocha",
+  id: "atocha",
 };
 
 const menendezPelayo = {
@@ -138,6 +158,7 @@ const menendezPelayo = {
   long: -3.6807882300400885,
   lines: [1],
   name: "Menéndez Pelayo",
+  id: "menendezPelayo",
 };
 
 const pacifico = {
@@ -145,6 +166,7 @@ const pacifico = {
   long: -3.67525304188166,
   lines: [1, 6],
   name: "Pacífico",
+  id: "pacifico",
 };
 
 const puenteDeVallecas = {
@@ -152,6 +174,7 @@ const puenteDeVallecas = {
   long: -3.669736121595171,
   lines: [1],
   name: "Puente de Vallecas",
+  id: "puenteDeVallecas",
 };
 
 const nuevaNumancia = {
@@ -159,6 +182,7 @@ const nuevaNumancia = {
   long: -3.6658998526406434,
   lines: [1],
   name: "Nueva Numancia",
+  id: "nuevaNumancia",
 };
 
 const portazgo = {
@@ -166,6 +190,7 @@ const portazgo = {
   long: -3.6591407120943438,
   lines: [1],
   name: "Portazgo",
+  id: "portazgo",
 };
 
 const buenosAires = {
@@ -173,6 +198,7 @@ const buenosAires = {
   long: -3.6554140507456077,
   lines: [1],
   name: "Buenos Aires",
+  id: "buenosAires",
 };
 
 const altoDeArenal = {
@@ -180,6 +206,7 @@ const altoDeArenal = {
   long: -3.646215055618432,
   lines: [1],
   name: "Alto de Arenal",
+  id: "altoDeArenal",
 };
 
 const miguelHernandez = {
@@ -187,6 +214,7 @@ const miguelHernandez = {
   long: -3.6392842788848676,
   lines: [1],
   name: "Miguel Hernandez",
+  id: "miguelHernandez",
 };
 
 const sierraDeGuadalupe = {
@@ -194,6 +222,7 @@ const sierraDeGuadalupe = {
   long: -3.6252283466812516,
   lines: [1],
   name: "Sierra de Guadalupe",
+  id: "sierraDeGuadalupe",
 };
 
 const villaDeVallecas = {
@@ -201,6 +230,7 @@ const villaDeVallecas = {
   long: -3.621726154925654,
   lines: [1],
   name: "Villa de Vallecas",
+  id: "villaDeVallecas",
 };
 
 const congosto = {
@@ -208,6 +238,7 @@ const congosto = {
   long: -3.618992294160439,
   lines: [1],
   name: "Congosto",
+  id: "congosto",
 };
 
 const laGavia = {
@@ -215,6 +246,7 @@ const laGavia = {
   long: -3.612917048288414,
   lines: [1],
   name: "La Gavia",
+  id: "laGavia",
 };
 
 const lasSuertes = {
@@ -222,6 +254,7 @@ const lasSuertes = {
   long: -3.6001400465089017,
   lines: [1],
   name: "Las Suertes",
+  id: "lasSuertes",
 };
 
 const valdecarros = {
@@ -229,6 +262,7 @@ const valdecarros = {
   long: -3.5934762611520554,
   lines: [1],
   name: "Valdecarros",
+  id: "valdecarros",
 };
 
 // Linea 2
@@ -238,9 +272,11 @@ const lasRosas = {
   long: -3.600801478897012,
   lines: [2],
   name: "Las Rosas",
+  id: "lasRosas",
 };
 
 const avenidaDeGuadalajara = {
+  id: "avenidaDeGuadalajara",
   lat: 40.42237354712535,
   long: -3.6131624443051567,
   lines: [2],
@@ -248,6 +284,7 @@ const avenidaDeGuadalajara = {
 };
 
 const alsacia = {
+  id: "alsacia",
   lat: 40.418783090522325,
   long: -3.624610600138953,
   lines: [2],
@@ -255,6 +292,7 @@ const alsacia = {
 };
 
 const laAlmudena = {
+  id: "laAlmudena",
   lat: 40.42356067211956,
   long: -3.640508703686634,
   lines: [2],
@@ -262,6 +300,7 @@ const laAlmudena = {
 };
 
 const laElipa = {
+  id: "laElipa",
   lat: 40.42648496365145,
   long: -3.651386353148477,
   lines: [2],
@@ -269,6 +308,7 @@ const laElipa = {
 };
 
 const ventas = {
+  id: "ventas",
   lat: 40.43105934292208,
   long: -3.6636332177135538,
   lines: [2, 5],
@@ -276,6 +316,7 @@ const ventas = {
 };
 
 const manuelBecerra = {
+  id: "manuelBecerra",
   lat: 40.42775887266891,
   long: -3.672266876766128,
   lines: [2, 6],
@@ -283,6 +324,7 @@ const manuelBecerra = {
 };
 
 const goya = {
+  id: "goya",
   lat: 40.42466091547799,
   long: -3.674891205041604,
   lines: [2, 4],
@@ -290,6 +332,7 @@ const goya = {
 };
 
 const principeDeVergara = {
+  id: "principeDeVergara",
   lat: 40.42377567589764,
   long: -3.678244979170257,
   lines: [2, 9],
@@ -297,6 +340,7 @@ const principeDeVergara = {
 };
 
 const retiro = {
+  id: "retiro",
   lat: 40.42126002859873,
   long: -3.684510619231018,
   lines: [2],
@@ -304,6 +348,7 @@ const retiro = {
 };
 
 const bancoDeEspana = {
+  id: "bancoDeEspana",
   lat: 40.41965911309961,
   long: -3.69347992633552,
   lines: [2],
@@ -311,6 +356,7 @@ const bancoDeEspana = {
 };
 
 const sevilla = {
+  id: "sevilla",
   lat: 40.41786212181181,
   long: -3.698844344195753,
   lines: [2],
@@ -318,6 +364,7 @@ const sevilla = {
 };
 
 const opera = {
+  id: "opera",
   lat: 40.41835221503397,
   long: -3.708586127511464,
   lines: [2, 5, 13],
@@ -325,20 +372,15 @@ const opera = {
 };
 
 const santoDomingo = {
+  id: "santoDomingo",
   lat: 40.42201024391963,
   long: -3.7063004936253123,
   lines: [2],
   name: "Santo Domingo",
 };
 
-const noviciado = {
-  lat: 40.4247785833365,
-  long: -3.7080526881442073,
-  lines: [2, 3, 10],
-  name: "Noviciado / Plaza de España",
-};
-
 const sanBernardo = {
+  id: "sanBernardo",
   lat: 40.42979581024937,
   long: -3.7052670785846282,
   lines: [2, 4],
@@ -346,6 +388,7 @@ const sanBernardo = {
 };
 
 const quevedo = {
+  id: "quevedo",
   lat: 40.43320352447881,
   long: -3.7056152797588413,
   lines: [2],
@@ -353,6 +396,7 @@ const quevedo = {
 };
 
 const canal = {
+  id: "canal",
   lat: 40.43827691239186,
   long: -3.7049188773577444,
   lines: [2, 7],
@@ -362,6 +406,7 @@ const canal = {
 // Linea 3
 
 const villaverdeAlto = {
+  id: "villaverdeAlto",
   lat: 40.34157696493295,
   long: -3.7118549354131285,
   lines: [3],
@@ -369,6 +414,7 @@ const villaverdeAlto = {
 };
 
 const sanCristobal = {
+  id: "sanCristobal",
   lat: 40.34166643542084,
   long: -3.6912072676024468,
   lines: [3],
@@ -376,6 +422,7 @@ const sanCristobal = {
 };
 
 const villaverdeBajoCruce = {
+  id: "villaverdeBajoCruce",
   lat: 40.351042040301834,
   long: -3.691778243371878,
   lines: [3],
@@ -383,6 +430,7 @@ const villaverdeBajoCruce = {
 };
 
 const ciudadDeLosAngeles = {
+  id: "ciudadDeLosAngeles",
   lat: 40.3597995620305,
   long: -3.6948929952957545,
   lines: [3],
@@ -390,6 +438,7 @@ const ciudadDeLosAngeles = {
 };
 
 const sanFerminOrcasur = {
+  id: "sanFerminOrcasur",
   lat: 40.36980560138429,
   long: -3.6948872160351183,
   lines: [3],
@@ -397,6 +446,7 @@ const sanFerminOrcasur = {
 };
 
 const hospital12deOctubre = {
+  id: "hospital12deOctubre",
   lat: 40.37537318189435,
   long: -3.6968264075946204,
   lines: [3],
@@ -404,6 +454,7 @@ const hospital12deOctubre = {
 };
 
 const almendrales = {
+  id: "almendrales",
   lat: 40.383887315106875,
   long: -3.6989814500418494,
   lines: [3],
@@ -411,6 +462,7 @@ const almendrales = {
 };
 
 const legazpi = {
+  id: "legazpi",
   lat: 40.391169527433696,
   long: -3.6959028601620707,
   lines: [3, 6],
@@ -418,6 +470,7 @@ const legazpi = {
 };
 
 const delicias = {
+  id: "delicias",
   lat: 40.39977949950838,
   long: -3.694774043808453,
   lines: [3],
@@ -425,6 +478,7 @@ const delicias = {
 };
 
 const palosDeLaFrontera = {
+  id: "palosDeLaFrontera",
   lat: 40.40295748631128,
   long: -3.6950305929471727,
   lines: [3],
@@ -432,6 +486,7 @@ const palosDeLaFrontera = {
 };
 
 const embajadores = {
+  id: "embajadores",
   lat: 40.40468968643914,
   long: -3.703223062802927,
   lines: [3, 5],
@@ -439,6 +494,7 @@ const embajadores = {
 };
 
 const lavapies = {
+  id: "lavapies",
   lat: 40.4084465813102,
   long: -3.701215529310202,
   lines: [3],
@@ -446,6 +502,7 @@ const lavapies = {
 };
 
 const callao = {
+  id: "callao",
   lat: 40.420274936011005,
   long: -3.7062224525949627,
   lines: [3, 5],
@@ -453,6 +510,7 @@ const callao = {
 };
 
 const plazaDeEspana = {
+  id: "plazaDeEspana",
   lat: 40.42364729870026,
   long: -3.711322963186548,
   lines: [2, 3, 10],
@@ -460,6 +518,7 @@ const plazaDeEspana = {
 };
 
 const venturaRodriguez = {
+  id: "venturaRodriguez",
   lat: 40.42704323961471,
   long: -3.714270964781492,
   lines: [3],
@@ -467,6 +526,7 @@ const venturaRodriguez = {
 };
 
 const arguelles = {
+  id: "arguelles",
   lat: 40.43072280543736,
   long: -3.7157988549626175,
   lines: [3, 4, 6],
@@ -474,6 +534,7 @@ const arguelles = {
 };
 
 const moncloa = {
+  id: "moncloa",
   lat: 40.434503876540155,
   long: -3.719393014988317,
   lines: [3, 6],
@@ -483,6 +544,7 @@ const moncloa = {
 // Linea 4
 
 const alonsoMartinez = {
+  id: "alonsoMartinez",
   lat: 40.427898410000076,
   long: -3.6954946512626874,
   lines: [4, 5, 10],
@@ -490,6 +552,7 @@ const alonsoMartinez = {
 };
 
 const colon = {
+  id: "colon",
   lat: 40.42543192087801,
   long: -3.6914498800743325,
   lines: [4],
@@ -497,6 +560,7 @@ const colon = {
 };
 
 const serrano = {
+  id: "serrano",
   lat: 40.4253747495098,
   long: -3.6871368879929665,
   lines: [4],
@@ -504,6 +568,7 @@ const serrano = {
 };
 
 const velazquez = {
+  id: "velazquez",
   lat: 40.425186900444324,
   long: -3.683360337666426,
   lines: [4],
@@ -511,6 +576,7 @@ const velazquez = {
 };
 
 const lista = {
+  id: "lista",
   lat: 40.42914795439827,
   long: -3.6757535929337624,
   lines: [4],
@@ -518,6 +584,7 @@ const lista = {
 };
 
 const diegoDeLeon = {
+  id: "diegoDeLeon",
   lat: 40.43462279287774,
   long: -3.6756630979616842,
   lines: [4, 5, 6],
@@ -525,13 +592,15 @@ const diegoDeLeon = {
 };
 
 const avenidaDeAmerica = {
-  lat: 40.43829786157724,
-  long: -3.6772532151702126,
-  lines: [4, 6, 7, 9],
+  id: "avenidaDeAmerica",
+  lat: 40.44461714984074,
+  long: -3.6751087479833727,
+  lines: [4, 7],
   name: "Avenida de América",
 };
 
 const prosperidad = {
+  id: "prosperidad",
   lat: 40.4441206249458,
   long: -3.675720061061254,
   lines: [4],
@@ -539,6 +608,7 @@ const prosperidad = {
 };
 
 const alfonsoXIII = {
+  id: "alfonsoXIII",
   lat: 40.44822067290521,
   long: -3.668327390075695,
   lines: [4],
@@ -546,6 +616,7 @@ const alfonsoXIII = {
 };
 
 const avenidaDeLaPaz = {
+  id: "avenidaDeLaPaz",
   lat: 40.4533804796333,
   long: -3.6613965619764652,
   lines: [4],
@@ -553,6 +624,7 @@ const avenidaDeLaPaz = {
 };
 
 const arturoSoria = {
+  id: "arturoSoria",
   lat: 40.45592757993377,
   long: -3.6578131307210393,
   lines: [4],
@@ -560,6 +632,7 @@ const arturoSoria = {
 };
 
 const esperanza = {
+  id: "esperanza",
   lat: 40.459486827566316,
   long: -3.6470199217278525,
   lines: [4],
@@ -567,6 +640,7 @@ const esperanza = {
 };
 
 const canillas = {
+  id: "canillas",
   lat: 40.46443354204033,
   long: -3.6358833898885248,
   lines: [4],
@@ -574,6 +648,7 @@ const canillas = {
 };
 
 const marDeCristal = {
+  id: "marDeCristal",
   lat: 40.4694778361166,
   long: -3.6376214612128437,
   lines: [4, 8],
@@ -581,6 +656,7 @@ const marDeCristal = {
 };
 
 const sanLorenzo = {
+  id: "sanLorenzo",
   lat: 40.47432587822357,
   long: -3.6405826199368,
   lines: [4],
@@ -588,6 +664,7 @@ const sanLorenzo = {
 };
 
 const parqueDeSantaMaria = {
+  id: "parqueDeSantaMaria",
   lat: 40.477247593121064,
   long: -3.645882665054671,
   lines: [4],
@@ -595,6 +672,7 @@ const parqueDeSantaMaria = {
 };
 
 const hortaleza = {
+  id: "hortaleza",
   lat: 40.47516910507403,
   long: -3.653356099221605,
   lines: [4],
@@ -602,6 +680,7 @@ const hortaleza = {
 };
 
 const manoteras = {
+  id: "manoteras",
   lat: 40.47655761229688,
   long: -3.663116140261856,
   lines: [4],
@@ -611,6 +690,7 @@ const manoteras = {
 // Linea 5
 
 const alamedaDeOsuna = {
+  id: "alamedaDeOsuna",
   lat: 40.45780158612176,
   long: -3.588017457032416,
   lines: [5],
@@ -618,6 +698,7 @@ const alamedaDeOsuna = {
 };
 
 const elCapricho = {
+  id: "elCapricho",
   lat: 40.453377481917464,
   long: -3.595605525872296,
   lines: [5],
@@ -625,6 +706,7 @@ const elCapricho = {
 };
 
 const canillejas = {
+  id: "canillejas",
   lat: 40.44930929848327,
   long: -3.6093281050168033,
   lines: [5],
@@ -632,6 +714,7 @@ const canillejas = {
 };
 
 const torreArias = {
+  id: "torreArias",
   lat: 40.44363919852365,
   long: -3.6166671694238586,
   lines: [5],
@@ -639,6 +722,7 @@ const torreArias = {
 };
 
 const suanzes = {
+  id: "suanzes",
   lat: 40.440894575096884,
   long: -3.6276098659606713,
   lines: [5],
@@ -646,6 +730,7 @@ const suanzes = {
 };
 
 const ciudadLineal = {
+  id: "ciudadLineal",
   lat: 40.437840377113396,
   long: -3.638517206613873,
   lines: [5],
@@ -653,6 +738,7 @@ const ciudadLineal = {
 };
 
 const puebloNuevo = {
+  id: "puebloNuevo",
   lat: 40.435593367522465,
   long: -3.643608477504308,
   lines: [5, 7],
@@ -660,6 +746,7 @@ const puebloNuevo = {
 };
 
 const quintana = {
+  id: "quintana",
   lat: 40.43357619158819,
   long: -3.646692463517938,
   lines: [5],
@@ -667,6 +754,7 @@ const quintana = {
 };
 
 const elCarmen = {
+  id: "elCarmen",
   lat: 40.43186476607949,
   long: -3.6566229852588914,
   lines: [5],
@@ -674,6 +762,7 @@ const elCarmen = {
 };
 
 const nunezDeBalboa = {
+  id: "nunezDeBalboa",
   lat: 40.43278769606949,
   long: -3.68398149676216,
   lines: [5],
@@ -681,6 +770,7 @@ const nunezDeBalboa = {
 };
 
 const rubenDario = {
+  id: "rubenDario",
   lat: 40.43318675129849,
   long: -3.6896472135356944,
   lines: [5],
@@ -688,6 +778,7 @@ const rubenDario = {
 };
 
 const chueca = {
+  id: "chueca",
   lat: 40.42264228661484,
   long: -3.6981355257855095,
   lines: [5],
@@ -695,6 +786,7 @@ const chueca = {
 };
 
 const laLatina = {
+  id: "laLatina",
   lat: 40.41141549329365,
   long: -3.708241149415657,
   lines: [5],
@@ -702,6 +794,7 @@ const laLatina = {
 };
 
 const puertaDeToledo = {
+  id: "puertaDeToledo",
   lat: 40.40680069908103,
   long: -3.7103857192123533,
   lines: [5],
@@ -709,20 +802,23 @@ const puertaDeToledo = {
 };
 
 const acacias = {
+  id: "acacias",
   lat: 40.40372963012126,
   long: -3.707143731303211,
   lines: [3, 5],
   name: "Embajadores / Acacias",
 };
 
-const piramedes = {
+const piramides = {
+  id: "piramides",
   lat: 40.40251498859207,
   long: -3.7122790401821546,
   lines: [5],
-  name: "Pirámedes",
+  name: "Pirámides",
 };
 
 const marquesDeVadillo = {
+  id: "marquesDeVadillo",
   lat: 40.397497554264866,
   long: -3.7157475669085125,
   lines: [5],
@@ -730,6 +826,7 @@ const marquesDeVadillo = {
 };
 
 const urgel = {
+  id: "urgel",
   lat: 40.39302359608587,
   long: -3.7249159089096966,
   lines: [5],
@@ -737,6 +834,7 @@ const urgel = {
 };
 
 const oporto = {
+  id: "oporto",
   lat: 40.38847032241529,
   long: -3.7310238143364813,
   lines: [5, 6],
@@ -744,6 +842,7 @@ const oporto = {
 };
 
 const vistaAlegre = {
+  id: "vistaAlegre",
   lat: 40.388648113280524,
   long: -3.7404774512077097,
   lines: [5],
@@ -751,6 +850,7 @@ const vistaAlegre = {
 };
 
 const carabanchel = {
+  id: "carabanchel",
   lat: 40.387818418554076,
   long: -3.745353401167654,
   lines: [5],
@@ -758,6 +858,7 @@ const carabanchel = {
 };
 
 const eugeniaDeMontijo = {
+  id: "eugeniaDeMontijo",
   lat: 40.384687216687595,
   long: -3.7512797552461685,
   lines: [5],
@@ -765,6 +866,7 @@ const eugeniaDeMontijo = {
 };
 
 const aluche = {
+  id: "aluche",
   lat: 40.38567499322186,
   long: -3.761239142321913,
   lines: [5],
@@ -772,6 +874,7 @@ const aluche = {
 };
 
 const empalme = {
+  id: "empalme",
   lat: 40.390840828674534,
   long: -3.7665041308630385,
   lines: [5],
@@ -779,6 +882,7 @@ const empalme = {
 };
 
 const campamento = {
+  id: "campamento",
   lat: 40.39458408322918,
   long: -3.768734618563986,
   lines: [5],
@@ -786,6 +890,7 @@ const campamento = {
 };
 
 const casaDeCampo = {
+  id: "casaDeCampo",
   lat: 40.40318586646646,
   long: -3.7617967643248202,
   lines: [5, 10],
@@ -793,7 +898,9 @@ const casaDeCampo = {
 };
 
 // Linea 6
+
 const laguna = {
+  id: "laguna",
   lat: 40.39920804089135,
   long: -3.7438293666073954,
   lines: [6],
@@ -801,6 +908,7 @@ const laguna = {
 };
 
 const carpetana = {
+  id: "carpetana",
   lat: 40.39277002430141,
   long: -3.741659530507246,
   lines: [6],
@@ -808,6 +916,7 @@ const carpetana = {
 };
 
 const opanel = {
+  id: "opanel",
   lat: 40.386152064852965,
   long: -3.7238134745409734,
   lines: [6],
@@ -815,6 +924,7 @@ const opanel = {
 };
 
 const plazaEliptica = {
+  id: "plazaEliptica",
   lat: 40.38446530816853,
   long: -3.71928947497992,
   lines: [6, 11],
@@ -822,6 +932,7 @@ const plazaEliptica = {
 };
 
 const usera = {
+  id: "usera",
   lat: 40.387082841671855,
   long: -3.7068449326330994,
   lines: [6],
@@ -829,6 +940,7 @@ const usera = {
 };
 
 const arganzuelaPlanetario = {
+  id: "arganzuelaPlanetario",
   lat: 40.39331263698368,
   long: -3.68911764546199,
   lines: [6],
@@ -836,6 +948,7 @@ const arganzuelaPlanetario = {
 };
 
 const mendezAlvaro = {
+  id: "mendezAlvaro",
   lat: 40.395616809624904,
   long: -3.6790958983674438,
   lines: [6],
@@ -843,6 +956,7 @@ const mendezAlvaro = {
 };
 
 const condeDeCasal = {
+  id: "condeDeCasal",
   lat: 40.40710049399163,
   long: -3.671311711136777,
   lines: [6],
@@ -850,6 +964,7 @@ const condeDeCasal = {
 };
 
 const sainzDeBaranda = {
+  id: "sainzDeBaranda",
   lat: 40.41477918986336,
   long: -3.6708705021436265,
   lines: [6, 9],
@@ -857,6 +972,7 @@ const sainzDeBaranda = {
 };
 
 const odonnell = {
+  id: "odonnell",
   lat: 40.42239702992558,
   long: -3.6697832370923855,
   lines: [6],
@@ -864,6 +980,7 @@ const odonnell = {
 };
 
 const republicaArgentina = {
+  id: "republicaArgentina",
   lat: 40.44371551203646,
   long: -3.6851297050848206,
   lines: [6],
@@ -871,6 +988,7 @@ const republicaArgentina = {
 };
 
 const nuevosMinisterios = {
+  id: "nuevosMinisterios",
   lat: 40.44659355845692,
   long: -3.6938120676626984,
   lines: [6, 8, 10],
@@ -878,6 +996,7 @@ const nuevosMinisterios = {
 };
 
 const guzmanElBueno = {
+  id: "guzmanElBueno",
   lat: 40.44653360040284,
   long: -3.712327088050442,
   lines: [6, 7],
@@ -885,6 +1004,7 @@ const guzmanElBueno = {
 };
 
 const vicenteAleixandre = {
+  id: "vicenteAleixandre",
   lat: 40.44680940696806,
   long: -3.719843398316318,
   lines: [6],
@@ -892,6 +1012,7 @@ const vicenteAleixandre = {
 };
 
 const ciudadUniversitaria = {
+  id: "ciudadUniversitaria",
   lat: 40.443583598656645,
   long: -3.727501525713917,
   lines: [6],
@@ -899,6 +1020,7 @@ const ciudadUniversitaria = {
 };
 
 const principePio = {
+  id: "principioPio",
   lat: 40.42098701853868,
   long: -3.7199886590318756,
   lines: [6, 10, 13],
@@ -906,6 +1028,7 @@ const principePio = {
 };
 
 const puertaDelAngel = {
+  id: "puertaDelAngel",
   lat: 40.41421422647763,
   long: -3.728471344413345,
   lines: [6],
@@ -913,6 +1036,7 @@ const puertaDelAngel = {
 };
 
 const altoDeExtremadura = {
+  id: "altoDeExtremadura",
   lat: 40.409819605263856,
   long: -3.7403603060892574,
   lines: [6],
@@ -920,6 +1044,7 @@ const altoDeExtremadura = {
 };
 
 const lucero = {
+  id: "lucero",
   lat: 40.404739859191444,
   long: -3.746161259459823,
   lines: [6],
@@ -929,6 +1054,7 @@ const lucero = {
 // Linea 7
 
 const hospitalDeHenares = {
+  id: "hospitalDeHenares",
   lat: 40.4179059813681,
   long: -3.5329948676912686,
   lines: [7],
@@ -936,6 +1062,7 @@ const hospitalDeHenares = {
 };
 
 const henares = {
+  id: "henares",
   lat: 40.41776760124066,
   long: -3.5274695952639523,
   lines: [7],
@@ -943,6 +1070,7 @@ const henares = {
 };
 
 const jarama = {
+  id: "jarama",
   lat: 40.42291532846304,
   long: -3.525650728860471,
   lines: [7],
@@ -950,6 +1078,7 @@ const jarama = {
 };
 
 const sanFernando = {
+  id: "sanFernando",
   lat: 40.42442226462559,
   long: -3.535933941875459,
   lines: [7],
@@ -957,6 +1086,7 @@ const sanFernando = {
 };
 
 const laRambla = {
+  id: "laRambla",
   lat: 40.4251716305573,
   long: -3.548245940087711,
   lines: [7],
@@ -964,6 +1094,7 @@ const laRambla = {
 };
 
 const cosladaCentral = {
+  id: "cosladaCentral",
   lat: 40.42320514297449,
   long: -3.560610514798939,
   lines: [7],
@@ -971,6 +1102,7 @@ const cosladaCentral = {
 };
 
 const barrioDelPuerto = {
+  id: "barrioDelPuerto",
   lat: 40.422474496591875,
   long: -3.569554666094362,
   lines: [7],
@@ -978,6 +1110,7 @@ const barrioDelPuerto = {
 };
 
 const estadioMetropolitano = {
+  id: "estadioMetropolitano",
   lat: 40.433396072386955,
   long: -3.601223184846861,
   lines: [7],
@@ -985,6 +1118,7 @@ const estadioMetropolitano = {
 };
 
 const lasMusas = {
+  id: "lasMusas",
   lat: 40.43265290118605,
   long: -3.607938963235132,
   lines: [7],
@@ -992,6 +1126,7 @@ const lasMusas = {
 };
 
 const sanBlas = {
+  id: "sanBlas",
   lat: 40.42796078019834,
   long: -3.616378540077953,
   lines: [7],
@@ -999,6 +1134,7 @@ const sanBlas = {
 };
 
 const simancas = {
+  id: "simancas",
   lat: 40.42785817916719,
   long: -3.6263125995028775,
   lines: [7],
@@ -1006,6 +1142,7 @@ const simancas = {
 };
 
 const garciaNoblejas = {
+  id: "garciaNoblejas",
   lat: 40.42908203238928,
   long: -3.6312722968282984,
   lines: [7],
@@ -1013,6 +1150,7 @@ const garciaNoblejas = {
 };
 
 const ascao = {
+  id: "ascao",
   lat: 40.43017977269128,
   long: -3.6414450353740806,
   lines: [7],
@@ -1020,6 +1158,7 @@ const ascao = {
 };
 
 const barrioDeLaConcepcion = {
+  id: "barrioDeLaConcepcion",
   lat: 40.43897425478377,
   long: -3.6513405901275675,
   lines: [7],
@@ -1027,6 +1166,7 @@ const barrioDeLaConcepcion = {
 };
 
 const parqueDeLasAvenidas = {
+  id: "parqueDeLasAvenidas",
   lat: 40.43945391011527,
   long: -3.6637770825521496,
   lines: [7],
@@ -1034,6 +1174,7 @@ const parqueDeLasAvenidas = {
 };
 
 const cartagena = {
+  id: "cartagena",
   lat: 40.43927598873854,
   long: -3.6724421320116383,
   lines: [7],
@@ -1041,6 +1182,7 @@ const cartagena = {
 };
 
 const gregorioMaranon = {
+  id: "gregorioMaranon",
   lat: 40.4380927785094,
   long: -3.6918975206064792,
   lines: [7, 10],
@@ -1048,6 +1190,7 @@ const gregorioMaranon = {
 };
 
 const alonsoCano = {
+  id: "alonsoCano",
   lat: 40.438229105715884,
   long: -3.7048195430693203,
   lines: [7],
@@ -1055,6 +1198,7 @@ const alonsoCano = {
 };
 
 const islasFilipinas = {
+  id: "islasFilipinas",
   lat: 40.439134700913534,
   long: -3.7143127515618457,
   lines: [7],
@@ -1062,6 +1206,7 @@ const islasFilipinas = {
 };
 
 const francosRodriguez = {
+  id: "francosRodriguez",
   lat: 40.45651392221677,
   long: -3.7132508428100275,
   lines: [7],
@@ -1069,6 +1214,7 @@ const francosRodriguez = {
 };
 
 const valdezarza = {
+  id: "valdezarza",
   lat: 40.46467135659308,
   long: -3.7167436271532397,
   lines: [7],
@@ -1076,6 +1222,7 @@ const valdezarza = {
 };
 
 const antonioMachado = {
+  id: "antonioMachado",
   lat: 40.469959547595835,
   long: -3.7186278293684945,
   lines: [7],
@@ -1083,6 +1230,7 @@ const antonioMachado = {
 };
 
 const penagrande = {
+  id: "penagrande",
   lat: 40.475898830653804,
   long: -3.71663121912141,
   lines: [7],
@@ -1090,6 +1238,7 @@ const penagrande = {
 };
 
 const avenidaDeLaIlustracion = {
+  id: "avenidaDeLaIlustracion",
   lat: 40.480105941909066,
   long: -3.7196282068200293,
   lines: [7],
@@ -1097,6 +1246,7 @@ const avenidaDeLaIlustracion = {
 };
 
 const lacoma = {
+  id: "lacoma",
   lat: 40.4848577912663,
   long: -3.72354532818288,
   lines: [7],
@@ -1104,6 +1254,7 @@ const lacoma = {
 };
 
 const arroyofresno = {
+  id: "arroyofresno",
   lat: 40.49086563242766,
   long: -3.7266744552073057,
   lines: [7],
@@ -1111,6 +1262,7 @@ const arroyofresno = {
 };
 
 const pitis = {
+  id: "pitis",
   lat: 40.49540860116347,
   long: -3.7266306911750293,
   lines: [7],
@@ -1120,6 +1272,7 @@ const pitis = {
 // Linea 8
 
 const colombia = {
+  id: "colombia",
   lat: 40.45748814267888,
   long: -3.676657192661387,
   lines: [8, 9],
@@ -1127,6 +1280,7 @@ const colombia = {
 };
 
 const pinarDelRey = {
+  id: "pinarDelRey",
   lat: 40.468039974220545,
   long: -3.6476784666030384,
   lines: [8],
@@ -1134,6 +1288,7 @@ const pinarDelRey = {
 };
 
 const feriaDeMadrid = {
+  id: "feriaDeMadrid",
   lat: 40.46401335967577,
   long: -3.6169790119212184,
   lines: [8],
@@ -1141,6 +1296,7 @@ const feriaDeMadrid = {
 };
 
 const aeropuertoT1T2T3 = {
+  id: "aeropuertoT1T2T3",
   lat: 40.46814388193424,
   long: -3.5727782620198623,
   lines: [8],
@@ -1148,6 +1304,7 @@ const aeropuertoT1T2T3 = {
 };
 
 const barajas = {
+  id: "barajas",
   lat: 40.47579755878603,
   long: -3.5835126876175694,
   lines: [8],
@@ -1155,6 +1312,7 @@ const barajas = {
 };
 
 const aeropuertoT4 = {
+  id: "aeropuertoT4",
   lat: 40.49128303925498,
   long: -3.5945838019230965,
   lines: [8],
@@ -1162,6 +1320,7 @@ const aeropuertoT4 = {
 };
 
 const pacoDeLucia = {
+  id: "pacoDeLucia",
   lat: 40.499825374941366,
   long: -3.7080929518006926,
   lines: [9],
@@ -1169,6 +1328,7 @@ const pacoDeLucia = {
 };
 
 const mirasierra = {
+  id: "mirasierra",
   lat: 40.4909648845967,
   long: -3.7173841237848766,
   lines: [9],
@@ -1176,6 +1336,7 @@ const mirasierra = {
 };
 
 const herreraOria = {
+  id: "herreraOria",
   lat: 40.48463291504563,
   long: -3.708758139583486,
   lines: [9],
@@ -1183,6 +1344,7 @@ const herreraOria = {
 };
 
 const barrioDelPilar = {
+  id: "barrioDelPilar",
   lat: 40.47626008981339,
   long: -3.7047884701993956,
   lines: [9],
@@ -1190,6 +1352,7 @@ const barrioDelPilar = {
 };
 
 const ventilla = {
+  id: "ventilla",
   lat: 40.46961657917464,
   long: -3.6950037718907587,
   lines: [9],
@@ -1197,6 +1360,7 @@ const ventilla = {
 };
 
 const duqueDePastrana = {
+  id: "duqueDePastrana",
   lat: 40.46760870577372,
   long: -3.6818716764738153,
   lines: [9],
@@ -1204,6 +1368,7 @@ const duqueDePastrana = {
 };
 
 const pioXII = {
+  id: "pioXII",
   lat: 40.46251409419988,
   long: -3.6766669521064124,
   lines: [9],
@@ -1211,6 +1376,7 @@ const pioXII = {
 };
 
 const conchaEspina = {
+  id: "conchaEspina",
   lat: 40.45048459991799,
   long: -3.6790580178767973,
   lines: [9],
@@ -1218,6 +1384,7 @@ const conchaEspina = {
 };
 
 const cruzDelRayo = {
+  id: "cruzDelRayo",
   lat: 40.444319667901425,
   long: -3.678915267695397,
   lines: [9],
@@ -1225,6 +1392,7 @@ const cruzDelRayo = {
 };
 
 const ibiza = {
+  id: "ibiza",
   lat: 40.4182955742016,
   long: -3.6776690581866416,
   lines: [9],
@@ -1232,6 +1400,7 @@ const ibiza = {
 };
 
 const estrella = {
+  id: "estrella",
   lat: 40.411502719082364,
   long: -3.6613241605554996,
   lines: [9],
@@ -1239,6 +1408,7 @@ const estrella = {
 };
 
 const vinateros = {
+  id: "vinateros",
   lat: 40.41021198977017,
   long: -3.6512662826413433,
   lines: [9],
@@ -1246,6 +1416,7 @@ const vinateros = {
 };
 
 const artilleros = {
+  id: "artilleros",
   lat: 40.405239862392015,
   long: -3.642472139151465,
   lines: [9],
@@ -1253,6 +1424,7 @@ const artilleros = {
 };
 
 const pavones = {
+  id: "pavones",
   lat: 40.40060134708578,
   long: -3.6358732902136675,
   lines: [9],
@@ -1260,6 +1432,7 @@ const pavones = {
 };
 
 const valdebernardo = {
+  id: "valdebernardo",
   lat: 40.399859810310964,
   long: -3.6218737731777684,
   lines: [9],
@@ -1267,6 +1440,7 @@ const valdebernardo = {
 };
 
 const vicalvaro = {
+  id: "vicalvaro",
   lat: 40.40423874498485,
   long: -3.609855966100855,
   lines: [9],
@@ -1274,6 +1448,7 @@ const vicalvaro = {
 };
 
 const sanCipriano = {
+  id: "sanCipriano",
   lat: 40.40408740481849,
   long: -3.602909716878376,
   lines: [9],
@@ -1281,6 +1456,7 @@ const sanCipriano = {
 };
 
 const puertaDeArganda = {
+  id: "puertaDeArganda",
   lat: 40.401597355607805,
   long: -3.5950436248212094,
   lines: [9],
@@ -1288,6 +1464,7 @@ const puertaDeArganda = {
 };
 
 const rivasUrbanizaciones = {
+  id: "rivasUrbanizaciones",
   lat: 40.367351769669064,
   long: -3.546605405780413,
   lines: [9],
@@ -1295,6 +1472,7 @@ const rivasUrbanizaciones = {
 };
 
 const rivasFutura = {
+  id: "rivasFutura",
   lat: 40.341713433967236,
   long: -3.52690293951884,
   lines: [9],
@@ -1302,6 +1480,7 @@ const rivasFutura = {
 };
 
 const rivasVaciamadrid = {
+  id: "rivasVaciamadrid",
   lat: 40.3281751767282,
   long: -3.5184901363895524,
   lines: [9],
@@ -1309,6 +1488,7 @@ const rivasVaciamadrid = {
 };
 
 const laPoveda = {
+  id: "laPoveda",
   lat: 40.31891059381465,
   long: -3.4801651450895275,
   lines: [9],
@@ -1316,6 +1496,7 @@ const laPoveda = {
 };
 
 const argandaDelRey = {
+  id: "argandaDelRey",
   lat: 40.303650415091234,
   long: -3.449403178096834,
   lines: [9],
@@ -1323,8 +1504,8 @@ const argandaDelRey = {
 };
 
 // Linea 10
-
 const hospitalInfantaSofia = {
+  id: "hospitalInfantaSofia",
   lat: 40.560110329013575,
   long: -3.610162732753923,
   lines: [10],
@@ -1332,6 +1513,7 @@ const hospitalInfantaSofia = {
 };
 
 const reyesCatolicos = {
+  id: "reyesCatolicos",
   lat: 40.5503527288015,
   long: -3.624223004031726,
   lines: [10],
@@ -1339,6 +1521,7 @@ const reyesCatolicos = {
 };
 
 const baunatal = {
+  id: "baunatal",
   lat: 40.55428797584786,
   long: -3.6359568927658854,
   lines: [10],
@@ -1346,6 +1529,7 @@ const baunatal = {
 };
 
 const manuelDeFalla = {
+  id: "manuelDeFalla",
   lat: 40.550665860343024,
   long: -3.647756936397305,
   lines: [10],
@@ -1353,6 +1537,7 @@ const manuelDeFalla = {
 };
 
 const marquesDeLaValdavia = {
+  id: "marquesDeLaValdavia",
   lat: 40.54107074526154,
   long: -3.6386590769730227,
   lines: [10],
@@ -1360,6 +1545,7 @@ const marquesDeLaValdavia = {
 };
 
 const laMoraleja = {
+  id: "laMoraleja",
   lat: 40.53190558802484,
   long: -3.6366727996800705,
   lines: [10],
@@ -1367,6 +1553,7 @@ const laMoraleja = {
 };
 
 const laGranja = {
+  id: "laGranja",
   lat: 40.52763196999366,
   long: -3.657700339172358,
   lines: [10],
@@ -1374,6 +1561,7 @@ const laGranja = {
 };
 
 const rondaDeLaComunicacion = {
+  id: "rondaDeLaComunicacion",
   lat: 40.51574788523366,
   long: -3.6645868824021877,
   lines: [10],
@@ -1381,6 +1569,7 @@ const rondaDeLaComunicacion = {
 };
 
 const lasTablas = {
+  id: "lasTablas",
   lat: 40.508234293515294,
   long: -3.670168606991995,
   lines: [10],
@@ -1388,6 +1577,7 @@ const lasTablas = {
 };
 
 const montecarmelo = {
+  id: "montecarmelo",
   lat: 40.505276389563086,
   long: -3.6967240839489315,
   lines: [10],
@@ -1395,6 +1585,7 @@ const montecarmelo = {
 };
 
 const tresOlivos = {
+  id: "tresOlivos",
   lat: 40.50048100101604,
   long: -3.6955884087194493,
   lines: [10],
@@ -1402,6 +1593,7 @@ const tresOlivos = {
 };
 
 const fuencarral = {
+  id: "fuencarral",
   lat: 40.49507200148446,
   long: -3.6941834710040604,
   lines: [10],
@@ -1409,6 +1601,7 @@ const fuencarral = {
 };
 
 const begona = {
+  id: "begona",
   lat: 40.48042983236294,
   long: -3.686525042430225,
   lines: [10],
@@ -1416,6 +1609,7 @@ const begona = {
 };
 
 const cuzco = {
+  id: "cuzco",
   lat: 40.4583410809721,
   long: -3.6909101704938823,
   lines: [10],
@@ -1423,6 +1617,7 @@ const cuzco = {
 };
 
 const santiagoBernabeu = {
+  id: "santiagoBernabeu",
   lat: 40.45209998745305,
   long: -3.690094161806205,
   lines: [10],
@@ -1430,6 +1625,7 @@ const santiagoBernabeu = {
 };
 
 const lago = {
+  id: "lago",
   lat: 40.41668380794701,
   long: -3.7349151046922238,
   lines: [10],
@@ -1437,6 +1633,7 @@ const lago = {
 };
 
 const batan = {
+  id: "batan",
   lat: 40.407639387815244,
   long: -3.753571142027108,
   lines: [10],
@@ -1444,6 +1641,7 @@ const batan = {
 };
 
 const coloniaJardin = {
+  id: "coloniaJardin",
   lat: 40.397212808344996,
   long: -3.775044331845643,
   lines: [10],
@@ -1451,6 +1649,7 @@ const coloniaJardin = {
 };
 
 const aviacionEspanola = {
+  id: "aviacionEspanola",
   lat: 40.38378312207911,
   long: -3.785194841015032,
   lines: [10],
@@ -1458,6 +1657,7 @@ const aviacionEspanola = {
 };
 
 const cuatroVientos = {
+  id: "cuatroVientos",
   lat: 40.37787473167457,
   long: -3.7925022099532435,
   lines: [10],
@@ -1465,6 +1665,7 @@ const cuatroVientos = {
 };
 
 const joaquinVilumbrales = {
+  id: "joaquinVilumbrales",
   lat: 40.34974034029154,
   long: -3.8095765570155797,
   lines: [10],
@@ -1472,6 +1673,7 @@ const joaquinVilumbrales = {
 };
 
 const puertaDelSur = {
+  id: "puertaDelSur",
   lat: 40.34536863369864,
   long: -3.812993313042291,
   lines: [10, 12],
@@ -1479,8 +1681,8 @@ const puertaDelSur = {
 };
 
 // Línea 11
-
 const abrantes = {
+  id: "abrantes",
   lat: 40.38101682028277,
   long: -3.7266040721309106,
   lines: [11],
@@ -1488,6 +1690,7 @@ const abrantes = {
 };
 
 const panBendito = {
+  id: "panBendito",
   lat: 40.375968527054745,
   long: -3.735630092306251,
   lines: [11],
@@ -1495,6 +1698,7 @@ const panBendito = {
 };
 
 const sanFrancisco = {
+  id: "sanFrancisco",
   lat: 40.37381688313462,
   long: -3.740836953502392,
   lines: [11],
@@ -1502,6 +1706,7 @@ const sanFrancisco = {
 };
 
 const carabanchelAlto = {
+  id: "carabanchelAlto",
   lat: 40.37189641963218,
   long: -3.751469241468814,
   lines: [11],
@@ -1509,6 +1714,7 @@ const carabanchelAlto = {
 };
 
 const laPeseta = {
+  id: "laPeseta",
   lat: 40.363185835142424,
   long: -3.7585748055067283,
   lines: [11],
@@ -1516,15 +1722,16 @@ const laPeseta = {
 };
 
 const laFortuna = {
+  id: "laFortuna",
   lat: 40.35813368947538,
   long: -3.776571223036998,
   lines: [11],
   name: "La Fortuna",
 };
 
-// Linea 12
-
+// Línea 12
 const parqueDeLisboa = {
+  id: "parqueDeLisboa",
   lat: 40.349656673411616,
   long: -3.822716500031455,
   lines: [12],
@@ -1532,6 +1739,7 @@ const parqueDeLisboa = {
 };
 
 const alcorconCentral = {
+  id: "alcorconCentral",
   lat: 40.35026944159127,
   long: -3.832700095755241,
   lines: [12],
@@ -1539,6 +1747,7 @@ const alcorconCentral = {
 };
 
 const parqueOeste = {
+  id: "parqueOeste",
   lat: 40.345979947183295,
   long: -3.849875454411215,
   lines: [12],
@@ -1546,6 +1755,7 @@ const parqueOeste = {
 };
 
 const universidadReyJuanCarlos = {
+  id: "universidadReyJuanCarlos",
   lat: 40.334674224484,
   long: -3.872801530092762,
   lines: [12],
@@ -1553,6 +1763,7 @@ const universidadReyJuanCarlos = {
 };
 
 const mostolesCentral = {
+  id: "mostolesCentral",
   lat: 40.32861922039742,
   long: -3.8648011530781274,
   lines: [12],
@@ -1560,6 +1771,7 @@ const mostolesCentral = {
 };
 
 const pradillo = {
+  id: "pradillo",
   lat: 40.32164434985196,
   long: -3.8651073876242226,
   lines: [12],
@@ -1567,6 +1779,7 @@ const pradillo = {
 };
 
 const hospitalDeMostoles = {
+  id: "hospitalDeMostoles",
   lat: 40.31634705240296,
   long: -3.87584473565684,
   lines: [12],
@@ -1574,6 +1787,7 @@ const hospitalDeMostoles = {
 };
 
 const manuelaMalasana = {
+  id: "manuelaMalasana",
   lat: 40.30900257875122,
   long: -3.865452424826645,
   lines: [12],
@@ -1581,6 +1795,7 @@ const manuelaMalasana = {
 };
 
 const loranca = {
+  id: "loranca",
   lat: 40.29652247381484,
   long: -3.838637764178445,
   lines: [12],
@@ -1588,6 +1803,7 @@ const loranca = {
 };
 
 const hospitalDeFuenlabrada = {
+  id: "hospitalDeFuenlabrada",
   lat: 40.28583592051701,
   long: -3.8193067096176763,
   lines: [12],
@@ -1595,6 +1811,7 @@ const hospitalDeFuenlabrada = {
 };
 
 const parqueEuropa = {
+  id: "parqueEuropa",
   lat: 40.285187511819245,
   long: -3.80567403241881,
   lines: [12],
@@ -1602,6 +1819,7 @@ const parqueEuropa = {
 };
 
 const fuenlabradaCentral = {
+  id: "fuenlabradaCentral",
   lat: 40.28265261663439,
   long: -3.799816254313558,
   lines: [12],
@@ -1609,6 +1827,7 @@ const fuenlabradaCentral = {
 };
 
 const parqueDeLosEstados = {
+  id: "parqueDeLosEstados",
   lat: 40.28653199684358,
   long: -3.7870287586446385,
   lines: [12],
@@ -1616,6 +1835,7 @@ const parqueDeLosEstados = {
 };
 
 const arroyoCulebro = {
+  id: "arroyoCulebro",
   lat: 40.28903413897547,
   long: -3.7595453039475544,
   lines: [12],
@@ -1623,6 +1843,7 @@ const arroyoCulebro = {
 };
 
 const conservatorio = {
+  id: "conservatorio",
   lat: 40.29358060460064,
   long: -3.747981943166903,
   lines: [12],
@@ -1630,6 +1851,7 @@ const conservatorio = {
 };
 
 const alonsoDeMendoza = {
+  id: "alonsoDeMendoza",
   lat: 40.30073309139775,
   long: -3.7397167233982254,
   lines: [12],
@@ -1637,13 +1859,15 @@ const alonsoDeMendoza = {
 };
 
 const getafeCentral = {
+  id: "getafeCentral",
   lat: 40.30970293670267,
   long: -3.7367762124897723,
   lines: [12],
-  name: "Juan de La Cierva",
+  name: "Getafe Central",
 };
 
 const juanDeLaCierva = {
+  id: "juanDeLaCierva",
   lat: 40.31161190543185,
   long: -3.72616653114579,
   lines: [12],
@@ -1651,6 +1875,7 @@ const juanDeLaCierva = {
 };
 
 const elCasar = {
+  id: "elCasar",
   lat: 40.31844646903861,
   long: -3.711085383789591,
   lines: [12],
@@ -1658,6 +1883,7 @@ const elCasar = {
 };
 
 const losEspartales = {
+  id: "losEspartales",
   lat: 40.32429365180987,
   long: -3.7205029660628655,
   lines: [12],
@@ -1665,6 +1891,7 @@ const losEspartales = {
 };
 
 const elBercial = {
+  id: "elBercial",
   lat: 40.32923155161688,
   long: -3.728132399751428,
   lines: [12],
@@ -1672,6 +1899,7 @@ const elBercial = {
 };
 
 const elCarrascal = {
+  id: "elCarrascal",
   lat: 40.33659228986702,
   long: -3.7418812748821435,
   lines: [12],
@@ -1679,6 +1907,7 @@ const elCarrascal = {
 };
 
 const julianBesteiro = {
+  id: "julianBesteiro",
   lat: 40.334521489754074,
   long: -3.753683868454276,
   lines: [12],
@@ -1686,6 +1915,7 @@ const julianBesteiro = {
 };
 
 const casaDelReloj = {
+  id: "casaDelReloj",
   lat: 40.32702346148158,
   long: -3.758546651012411,
   lines: [12],
@@ -1693,6 +1923,7 @@ const casaDelReloj = {
 };
 
 const hospitalSeveroOchoa = {
+  id: "hospitalSeveroOchoa",
   lat: 40.32176863152142,
   long: -3.7692656691228903,
   lines: [12],
@@ -1700,6 +1931,7 @@ const hospitalSeveroOchoa = {
 };
 
 const leganesCentral = {
+  id: "leganesCentral",
   lat: 40.32858715066292,
   long: -3.7721185456851845,
   lines: [12],
@@ -1707,6 +1939,7 @@ const leganesCentral = {
 };
 
 const sanNicasio = {
+  id: "sanNicasio",
   lat: 40.336152098776516,
   long: -3.7771242064288706,
   lines: [12],
@@ -1773,16 +2006,8 @@ retiro.edges = [principeDeVergara, bancoDeEspana];
 bancoDeEspana.edges = [retiro, sevilla];
 sevilla.edges = [bancoDeEspana, sol];
 opera.edges = [sol, santoDomingo, callao, laLatina, principePio];
-santoDomingo.edges = [opera, noviciado];
-noviciado.edges = [
-  santoDomingo,
-  sanBernardo,
-  callao,
-  venturaRodriguez,
-  tribunal,
-  principePio,
-];
-sanBernardo.edges = [noviciado, quevedo, arguelles, bilbao];
+santoDomingo.edges = [opera, plazaDeEspana];
+sanBernardo.edges = [plazaDeEspana, quevedo, arguelles, bilbao];
 quevedo.edges = [sanBernardo, canal];
 canal.edges = [quevedo, cuatroCaminos, alonsoCano, islasFilipinas];
 
@@ -1866,8 +2091,8 @@ chueca.edges = [alonsoMartinez, granVia];
 laLatina.edges = [opera, puertaDeToledo];
 puertaDeToledo.edges = [laLatina, acacias];
 acacias.edges = [palosDeLaFrontera, lavapies, puertaDeToledo, piramides];
-piramedes.edges = [acacias, marquesDeVadillo];
-marquesDeVadillo.edges = [piramedes, urgel];
+piramides.edges = [acacias, marquesDeVadillo];
+marquesDeVadillo.edges = [piramides, urgel];
 urgel.edges = [marquesDeVadillo, oporto];
 oporto.edges = [urgel, vistaAlegre, carpetana, opanel];
 vistaAlegre.edges = [oporto, carabanchel];
@@ -1942,12 +2167,7 @@ lacoma.edges = [avenidaDeLaIlustracion, arroyofresno];
 arroyofresno.edges = [lacoma, pitis];
 pitis.edges = [arroyofresno];
 
-colombia.edges = [
-  nuevosMinisterios,
-  pinarDelRey,
-  duqueDePastrana,
-  conchaEspina,
-];
+colombia.edges = [nuevosMinisterios, pinarDelRey, pioXII, conchaEspina];
 pinarDelRey.edges = [colombia, marDeCristal];
 feriaDeMadrid.edges = [marDeCristal, aeropuertoT1T2T3];
 aeropuertoT1T2T3.edges = [feriaDeMadrid, barajas];
@@ -2006,6 +2226,7 @@ panBendito.edges = [abrantes, sanFrancisco];
 sanFrancisco.edges = [panBendito, carabanchelAlto];
 carabanchelAlto.edges = [sanFrancisco, laPeseta];
 laPeseta.edges = [carabanchelAlto, laFortuna];
+laFortuna.edges = [laPeseta];
 
 // Line 12
 parqueDeLisboa.edges = [puertaDelSur, alcorconCentral];
@@ -2094,7 +2315,7 @@ const linea2 = {
     sol,
     opera,
     santoDomingo,
-    noviciado,
+    plazaDeEspana,
     sanBernardo,
     quevedo,
     canal,
@@ -2160,7 +2381,7 @@ const linea5 = {
   stops: [
     alamedaDeOsuna,
     elCapricho,
-    canillas,
+    canillejas,
     torreArias,
     suanzes,
     ciudadLineal,
@@ -2179,7 +2400,7 @@ const linea5 = {
     laLatina,
     puertaDeToledo,
     acacias,
-    piramedes,
+    piramides,
     marquesDeVadillo,
     urgel,
     oporto,
@@ -2337,6 +2558,7 @@ const linea10 = {
     gregorioMaranon,
     alonsoMartinez,
     tribunal,
+    plazaDeEspana,
     principePio,
     lago,
     batan,
@@ -2418,6 +2640,8 @@ const lineas = [
   linea13,
 ];
 
+var connectors = [];
+
 const resultado = (coordenada1, coordenada2) => {
   var temporal = 9999999999999999999999999999999999999999999999999999999999999999;
   var nombre = null;
@@ -2438,4 +2662,143 @@ const resultado = (coordenada1, coordenada2) => {
     }
   }
   return [stopMasChico, nombre];
+};
+
+const clearMap = () => {
+  for (linea of lineas) {
+    for (stop of linea.stops) {
+      document.getElementById(stop.id).style.display = "none";
+    }
+  }
+  for (connector of connectors) {
+    document.getElementById(connector).style.display = "none";
+  }
+};
+
+const loadMap = () => {
+  var offsetTop = document
+    .getElementById("miniWindow")
+    .getBoundingClientRect().top;
+  var offsetLeft = document
+    .getElementById("miniWindow")
+    .getBoundingClientRect().left;
+  var visited = new Set();
+  for (linea of lineas) {
+    var lineaColor = linea.color;
+    var prevX = null;
+    var prevY = null;
+    var prevID = null;
+    for (stop of linea.stops) {
+      var xCoord = (3.872801530092762 + stop.long) * 140.106355446;
+      var yCoord = (40.560110329013575 - stop.lat) * 259.499003948;
+      if (!visited.has(stop.id)) {
+        document.getElementById(
+          "miniWindow"
+        ).innerHTML += `<div id="${stop.id}" class="stop" 
+                      style="top: calc(${offsetTop}px + ${yCoord}vh + 2vh); left: calc(${offsetLeft}px + ${xCoord}vh + 2vh)">
+        <div class="stopPoint" style="border: 1px solid black; background: white"></div>
+        <div class="stopName" style="color: ${lineaColor}">${stop.name}</div> 
+        </div>`;
+        visited.add(stop.id);
+      }
+      xCoord = document.getElementById(stop.id).getBoundingClientRect().left;
+      yCoord = document.getElementById(stop.id).getBoundingClientRect().top;
+      if (prevID && !connectors.includes(`${prevID},${stop.id}`)) {
+        document.getElementById(
+          "miniWindow"
+        ).innerHTML += `<svg id="${prevID},${stop.id}"><polyline points="${xCoord},${yCoord} ${prevX},${prevY}" style="stroke: ${lineaColor}"></polyline></svg>`;
+        connectors.push(`${prevID},${stop.id}`);
+      }
+      if (stop == sanNicasio) {
+        prevID = "puertaDelSur";
+        prevX = document.getElementById(prevID).getBoundingClientRect().left;
+        prevY = document.getElementById(prevID).getBoundingClientRect().top;
+        document.getElementById(
+          "miniWindow"
+        ).innerHTML += `<svg id="${prevID},${stop.id}"><polyline points="${xCoord},${yCoord} ${prevX},${prevY}" style="stroke: ${lineaColor}"></polyline></svg>`;
+        connectors.push(`${prevID},${stop.id}`);
+      }
+      prevID = stop.id;
+      prevX = xCoord;
+      prevY = yCoord;
+    }
+  }
+};
+
+const updateMap = (route) => {
+  clearMap();
+  var prevID = null;
+  for (stop of route) {
+    document.getElementById(stop.id).style.display = "flex";
+    if (prevID && document.getElementById(`${prevID},${stop.id}`)) {
+      document.getElementById(`${prevID},${stop.id}`).style.display = "flex";
+    } else if (prevID && document.getElementById(`${stop.id},${prevID}`)) {
+      document.getElementById(`${stop.id},${prevID}`).style.display = "flex";
+    }
+    prevID = stop.id;
+  }
+};
+
+const findShortestRoute = (startStop, endStop) => {
+  const queue = [[startStop]];
+  const visited = new Set();
+
+  while (queue.length > 0) {
+    const path = queue.shift();
+    const stop = path[path.length - 1];
+
+    if (stop == endStop) {
+      return path;
+    }
+
+    if (!visited.has(stop)) {
+      visited.add(stop);
+      const neighbors = stop.edges;
+
+      for (const neighbor of neighbors) {
+        const newPath = path.concat([neighbor]);
+        queue.push(newPath);
+      }
+    }
+  }
+};
+
+const processShortestPath = (path) => {
+  updateMap(path);
+  document.getElementById("divInstrucciones").innerHTML = "";
+  for (stop of path) {
+    document.getElementById(
+      "divInstrucciones"
+    ).innerHTML += `<li>${stop.name}</li>`;
+  }
+};
+
+const createRoute = () => {
+  const fromCoords = document
+    .getElementById("input1")
+    .value.split(",")
+    .map(Number);
+  const toCoords = document
+    .getElementById("input2")
+    .value.split(",")
+    .map(Number);
+  const startStop = resultado(fromCoords[0], fromCoords[1])[0];
+  const endStop = resultado(toCoords[0], toCoords[1])[0];
+
+  processShortestPath(findShortestRoute(startStop, endStop));
+};
+
+const useGPS = () => {
+  if (window.innerWidth < window.innerHeight) {
+    navigator.geolocation.getCurrentPosition(
+      function (position) {
+        document.getElementById(
+          "input1"
+        ).value = `${position.coords.latitude},${position.coords.longitude}`;
+      },
+      function (error) {
+        console.error("Error getting location: " + error.message);
+      }
+    );
+  }
 };
